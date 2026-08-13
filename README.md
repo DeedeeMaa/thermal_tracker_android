@@ -1,7 +1,11 @@
-# 海康热成像 安卓版（ThermalTracker for Android）
+# 基于海康热像仪的安卓手机SDK和前端
+
+**Hikvision Thermal Camera Android SDK & Frontend · Thermal Tracker for Android**
+
+> **支持海康热像仪型号：DS-2TAXX 全系列（Full Series）**
 
 由 PC 版 Python 工程（`thermal_tracker/`）移植的原生安卓应用骨架：
-**Kotlin + Jetpack Compose + OpenCV for Android + Media3(ExoPlayer) + 海康安卓 SDK（待接入）**。
+**Kotlin + Jetpack Compose + OpenCV for Android + Media3(ExoPlayer) + 海康热像仪安卓 SDK（Hikvision Thermal Camera SDK）**。
 
 功能对齐 PC 版：
 
