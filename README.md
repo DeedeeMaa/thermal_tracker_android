@@ -1,6 +1,6 @@
 # 海康热成像 安卓版（ThermalTracker for Android）
 
-由 PC 版 Python 工程（`thermal_tracker/`）移植的原生安卓应用骨架：
+由Python 工程（`thermal_tracker/`）移植的原生安卓应用骨架：
 **Kotlin + Jetpack Compose + OpenCV for Android + Media3(ExoPlayer) + 海康安卓 SDK（待接入）**。
 
 功能对齐 PC 版：
